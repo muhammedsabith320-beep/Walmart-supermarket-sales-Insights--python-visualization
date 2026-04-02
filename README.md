@@ -1,0 +1,2 @@
+# Walmart-supermarket-sales-Insights--python-visualization
+Python-based Exploratory Data Analysis (EDA) project on Walmart sales data, involving data cleaning, preprocessing, and in-depth analysis to uncover sales trends, customer purchasing behavior, and key business insights. The project utilizes Pandas, NumPy, Matplotlib, and Seaborn for data manipulation, visualization, and statistical analysis.
